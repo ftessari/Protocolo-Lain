@@ -1,2 +1,6 @@
 # Protocolo-Lain
- Trata-se de uma ISO (DVD) estilo aqueles cd´s geek que vinha em revistas na década de 90, que sempre achei legal. :3                 É mais uma expressão artística e nostálgica do que ensinamentos revolucionários. Até porque, Hackerismo é um Estilo de Vida, não se ensina isto.         Mas vai ser legal pra quem esta começando. E acredito que consegui ir além do óbvio, sendo um material inicial, porém livre de redundância.         Coloquei elementos "que você só encontra aqui", ou seja, tive preocupação em incluir coisas que vão além da parte técnica.                  Tentei criar um material tendenciosamente hacktivista, libertário, criptoanarquista.         Mas acho que é prepotência minha. xD 
+It's an ISO (DVD) styled like those geek CDs that appeared in magazines in the 90s, which I always thought was cool.
+It is more of an artistic and nostalgic expression than teachings. Because Hackerism is a Lifestyle, that's not taught.
+Content in Portuguese (Brazil).
+
+https://github.com/ftessari/Protocolo-Lain/assets/20548035/5ebc19e5-b391-4215-8b73-ba1994d77365
